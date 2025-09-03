@@ -1,4 +1,4 @@
 # counter
 This is a basic counter
-br
+<br>
 With a minecraft background.
