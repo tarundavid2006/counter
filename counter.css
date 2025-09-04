@@ -1,0 +1,26 @@
+#countlabel {
+  text-align: center;
+  display: block;
+  font-size: 10em;
+  font-family: "press start 2p";
+}
+#btncontainer {
+  text-align: center;
+}
+.btn {
+  padding: 10px 20px;
+  font-size: 1.5em;
+  font-family: "press start 2p";
+  color: white;
+  background-color: rgb(11, 158, 226);
+  border-radius: 7px;
+  cursor: pointer;
+  transition: background-color 0.25s;
+}
+
+.btn:hover {
+  background-color: rgb(11, 127, 180);
+}
+body {
+  background-image: url(bgimg.png);
+}
